@@ -1,2 +1,3 @@
 # pythonPracDataStructure
-Data Structures in Python
+This contains all the Data Strucuture implemented in python
+
